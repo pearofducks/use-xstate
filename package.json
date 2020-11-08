@@ -1,0 +1,24 @@
+{
+  "name": "use-xstate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@xstate/fsm": "^1.0.0",
+    "xstate": "^4.7.8"
+  },
+  "peerDependenciesMeta": {
+    "@xstate/fsm": {
+      "optional": true
+    },
+    "xstate": {
+      "optional": true
+    }
+  }
+}
